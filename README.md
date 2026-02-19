@@ -1,5 +1,7 @@
 # mesdos
 
+### **[▶ Try it live](https://isam10.github.io/mesdos/)**
+
 A Desmos-inspired graphing calculator built with React, TypeScript, and HTML Canvas.
 
 ![React](https://img.shields.io/badge/React-18-61dafb?logo=react)
